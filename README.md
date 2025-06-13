@@ -11,7 +11,7 @@
 <div align="center">
 
 ¡Has descubierto mi perfil de GitHub! <br>
-Soy Alex Jhoan Cruz Tomas, estudiante de 6° semestre de Ingeniería en Computación en FES Aragón, UNAM. <br>
+Soy Alex Cruz , estudiante de Ingeniería en Computación en FES Aragón, UNAM. <br>
 Apasionado por el desarrollo de software, robótica, IoT e inteligencia artificial. <br>
 Siéntete libre de clonar/hacer fork de mis proyectos, reportar issues y enviar PRs si crees que algo puede mejorar. <br>
 Pregúntame cualquier cosa <a href="https://github.com/alexxjct/alexxjct/issues/new"><b>aquí</b></a><br>
@@ -56,4 +56,3 @@ o <a href="mailto:alexjct047@gmail.com"><b>envíame un email</b></a>
 Credits: [ABSphreak](https://github.com/ABSphreak)
 Personalizado por: [Alex Jhoan Cruz Tomas](https://github.com/alexxjct)
 
-Last Edited on: 12/06/2025
